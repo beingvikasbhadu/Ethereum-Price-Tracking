@@ -1,5 +1,5 @@
 # :gem:Ethereum-Price-Tracking
-I scripted a python script to trak the price of ethereum cryto currency during **_sep 2017 - may 2020_**
+I scripted a python script to track the price of ethereum cryto currency during **_sep 2017 - may 2020_**
 
 # :hammer:Buit With
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
