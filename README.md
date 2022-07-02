@@ -1,4 +1,4 @@
-# Ethereum-Price-Tracking
+# :gem:Ethereum-Price-Tracking
 I scripted a python script to trak the price of ethereum cryto currency during **_sep 2017 - may 2020_**
 
 # :hammer:Buit With
@@ -21,7 +21,7 @@ I scripted a python script to trak the price of ethereum cryto currency during *
 ![Figure_1](https://user-images.githubusercontent.com/98146902/177006083-070eaa56-df4e-4b1c-b2d2-1694fa46673d.png)
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Duration-of-a-YouTube-PlayList/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Ethereum-Price-Tracking/blob/master/LICENSE) 2022 vikas bhadu
 
 # :arrow_upper_right:Future Improvements
 * More functionalities can be added
